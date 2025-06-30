@@ -1,4 +1,4 @@
-# CalSol Cell Characterization Dashboard
+# CalSol Cell Characterization 
 Tools for characterizing li-ion cells
 
 ## Overview
